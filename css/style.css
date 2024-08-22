@@ -192,3 +192,13 @@ width: 100%;
         margin: 0;
     }
 }
+@media (max-width:568px) {
+    .gmail{
+        padding: 15px !important;
+    }
+    .digitals{
+        font-size: 40px;
+        margin-top: 30% !important;
+        margin-bottom: 30px;
+    }
+}
