@@ -165,6 +165,10 @@ margin-top: -7px;
 width: 100%;
 
 }
+.collapsed:hover{
+    background-color: red;
+    color: #fff;
+}
 .footerr{
     background-color: rgb(25, 25, 25);
 }
